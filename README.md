@@ -16,4 +16,4 @@
 
 # The program outputs as:
 
-![Program Output](https://github.com/xanthe1337/Discordapp-TokenGrabber/blob/master/Images/BJzzsd.png?raw=true)
+![Program Output](https://cdn.discordapp.com/attachments/490610729607495692/712621434824032337/unknown.png)
